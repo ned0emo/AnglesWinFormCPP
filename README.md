@@ -18,3 +18,7 @@
 4. menu.png - Задний фон программы
 5. NewGame.txt - расстановка шашек при новой игре
 6. 777.txt - файл для сохранения партии
+
+## Скрин
+
+![1](https://github.com/ned0emo/AnglesWinFormCPP/assets/65717758/7225b975-e531-45d9-a1da-5150de08f211)
